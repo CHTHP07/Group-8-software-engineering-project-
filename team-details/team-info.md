@@ -46,5 +46,5 @@ Siddhartha Chowdary Alapati
 Skills i can bring into this team:
 *Coding
 *Testing
-*Debugging
+
 
